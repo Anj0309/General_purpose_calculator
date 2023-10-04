@@ -1,2 +1,2 @@
-# Genetal_purpose_calculator
+# General_purpose_calculator
 It is a calculator 
