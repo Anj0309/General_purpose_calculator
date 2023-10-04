@@ -1,0 +1,6 @@
+../Core/Src/calculator.c:40:6:calci_init	1
+../Core/Src/calculator.c:55:6:key_map	33
+../Core/Src/calculator.c:173:6:perform_calculation	8
+../Core/Src/calculator.c:205:6:display_number	4
+../Core/Src/calculator.c:226:6:check_data	22
+../Core/Src/calculator.c:348:6:display_data	6

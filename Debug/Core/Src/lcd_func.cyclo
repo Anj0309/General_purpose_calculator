@@ -1,0 +1,8 @@
+../Core/Src/lcd_func.c:48:6:lcd_send_4bit	1
+../Core/Src/lcd_func.c:71:6:lcd_send_data	1
+../Core/Src/lcd_func.c:75:6:lcd_send_cmd	1
+../Core/Src/lcd_func.c:79:6:lcd_init	1
+../Core/Src/lcd_func.c:88:6:lcd_4bit_init	1
+../Core/Src/lcd_func.c:107:6:lcd_set_cursor	3
+../Core/Src/lcd_func.c:123:6:lcd_clear	1
+../Core/Src/lcd_func.c:128:6:lcd_Send_String	2
